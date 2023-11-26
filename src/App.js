@@ -8,7 +8,7 @@ import { CartPage } from './Components/CartPage';
 function App() {
   return (
     <BrowserRouter>
-      <div>
+      <div>c
         <Navbar />
         <Routes>
           <Route exact path="/" element={<ProductCard />} />
