@@ -4,7 +4,7 @@ import {
     MDBNavbar,
     MDBNavbarBrand,
     MDBBtn,
-    MDBInputGroup
+
 } from 'mdb-react-ui-kit';
 import { Link } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
